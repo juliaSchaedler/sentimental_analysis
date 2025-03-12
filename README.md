@@ -54,7 +54,7 @@ O script Python neste repositório faz o seguinte:
 1.  **Clone este repositório:**
 
     ```bash
-    git clone <URL_do_seu_repositório>
+    git clone <https://github.com/juliaSchaedler/sentimental_analysis.git>
     cd <nome_da_pasta_do_repositório>
     ```
 
